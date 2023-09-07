@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+td {
+  height: 150px;
+  width: 150px;
+  border: 1px solid lightblue;
+  text-align: center;
+  font-size: 60px;
+  color: wheat;
+}
+
+table {
+  margin-left: 33%;
+  /* margin-top: 5%; */
+}
